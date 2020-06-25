@@ -44,4 +44,5 @@ window.addEventListener('DOMContentLoaded', function(){
         $('#menu-icon').html('<i class="fa fa-bars"></i>');
       }else{;}
     });
+  
 });
